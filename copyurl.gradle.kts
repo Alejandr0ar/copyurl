@@ -4,7 +4,7 @@ zapAddOn {
     addOnName.set("copy url")
 
     manifest {
-        author.set("ZAP Dev Team")
+        author.set("alejandroar")
     }
 }
 
