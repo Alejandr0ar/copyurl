@@ -12,7 +12,7 @@ https://example.com/api/v1/users?id=42
 ```
 
 ### COPY CURL
-Copies the full request as a ready-to-run `curl` command — same format as Burp Suite.
+Copies the full request as a ready-to-run `curl` command — same format.
 
 ```bash
 curl --path-as-is -i -s -k -X POST \
